@@ -1,16 +1,36 @@
-## Hi there 👋
+##  < About me />
+```csharp
+//Hello World
 
-<!--
-**toledo-alt/toledo-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class GustavoToledo
+{
+   private int Age = 20;
+   private  string University = "UNIFESP";
+   private string Degree = "Computer Engineering";
 
-Here are some ideas to get you started:
+    string[] Skills =
+    {
+        "C",
+        "C#",
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Linux"
+    };
+}
+```
+## < GitHub Stats/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gustavo Toledo GitHub stats](https://github-readme-stats.vercel.app/api?username=toledo-alt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toledo-alt&layout=compact&theme=tokyonight)
+
+## < Skills/>
+
+![My Skills](https://skillicons.dev/icons?i=cs,java,c,python,html,css,linux)
+
+
+## <  Contact />
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gutstoledo@gmail.com)[
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]](https://www.linkedin.com/in/gustavo-toledo-2b49aa327/)
